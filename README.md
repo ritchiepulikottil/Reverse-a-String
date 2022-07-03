@@ -1,5 +1,4 @@
 # Reverse-a-String
-# ArrayOperations
 ➞<a href="https://github.com/ritchiepulikottil/Reverse-a-String/blob/main/c%23/StringReverse.cs"> View code in C# </a><br>
 ➞<a href="https://github.com/ritchiepulikottil/Reverse-a-String/blob/main/c%2B%2B/StringReverse.cpp"> View code in C++ </a><br>
 ➞<a href="https://github.com/ritchiepulikottil/Reverse-a-String/blob/main/java/StringReverse.java"> View code in Java </a><br>
